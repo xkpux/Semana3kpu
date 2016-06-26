@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">semaine3kpu</string>
+    <string name="titulo_app">ma pratique</string>
+    <string name="texto">Ma première pratique dans Android</string>
+</resources>
